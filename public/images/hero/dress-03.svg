@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1100">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9d7c3"/><stop offset="1" stop-color="#c58c91"/></linearGradient><linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7b344b"/><stop offset="1" stop-color="#4d1c2e"/></linearGradient></defs>
+  <rect width="850" height="1100" fill="url(#bg)"/><circle cx="425" cy="330" r="250" fill="#fff" opacity=".13"/><path d="M0 895q250-175 470-25t380-45v275H0z" fill="#fff" opacity=".09"/>
+  <circle cx="430" cy="275" r="82" fill="#d7a98c"/><path d="M345 258q20-128 123-83 59 26 41 141-26-69-164-58z" fill="#33282a"/>
+  <path d="M376 353q54 33 106 0l48 128-104 74-104-74z" fill="#f0ceb8"/><path d="M360 375q70 52 138 0l54 190 183 476H119l184-476z" fill="url(#dress)"/>
+  <path d="M318 432q-92 64-129 230l64 20 91-173M522 432q92 64 129 230l-64 20-91-173" fill="#6b2940"/>
+  <g fill="none" stroke="#ead8c7" stroke-width="6" opacity=".75"><path d="M330 500q95 62 190 0"/><path d="M285 660q140 70 278 0"/><path d="M220 830q210 85 414 0"/></g>
+  <text x="425" y="1030" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="22" letter-spacing="8">YOUR HERO IMAGE</text>
+</svg>

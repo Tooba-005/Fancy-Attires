@@ -1,0 +1,19 @@
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+
+export function ScrollManager() {
+  const { pathname, hash, search } = useLocation();
+
+  useEffect(() => {
+    if (hash) {
+      window.setTimeout(
+        () => document.querySelector(hash)?.scrollIntoView({ behavior: "smooth" }),
+        0,
+      );
+    } else {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+  }, [pathname, hash, search]);
+
+  return null;
+}

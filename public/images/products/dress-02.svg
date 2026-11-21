@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 920">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead8c7"/><stop offset="1" stop-color="#cf9fa1"/></linearGradient><linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8a4058"/><stop offset="1" stop-color="#542133"/></linearGradient></defs>
+  <rect width="700" height="920" fill="url(#bg)"/><circle cx="350" cy="215" r="125" fill="#f8eee6" opacity=".45"/><path d="M0 740 Q180 650 350 750T700 730V920H0Z" fill="#b97d83" opacity=".3"/>
+  <circle cx="350" cy="230" r="63" fill="#d7a98c"/><path d="M296 210q18-90 95-35 33 24 14 100-19-58-109-65z" fill="#3b2b2d"/>
+  <path d="M305 285q45 30 90 0l35 97-80 57-80-57z" fill="#f4d6c3"/><path d="M291 304q59 52 118 0l35 138 129 355H127l129-355z" fill="url(#dress)"/>
+  <path d="M275 347q-56 41-85 153l43 15 67-133M425 347q56 41 85 153l-43 15-67-133" fill="#6f2c43"/><path d="M272 421q80 47 156 0M239 529q111 55 222 0M198 648q149 65 304 0" fill="none" stroke="#e9d7c3" stroke-width="4" opacity=".7"/>
+  <g fill="#e9d7c3" opacity=".8"><circle cx="350" cy="355" r="6"/><circle cx="328" cy="388" r="4"/><circle cx="372" cy="388" r="4"/><circle cx="350" cy="465" r="5"/></g>
+  <text x="350" y="862" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="20" letter-spacing="6">REPLACE WITH YOUR PHOTO</text>
+</svg>
